@@ -2,7 +2,7 @@
 layout: post
 title:  "새 하드디스크를 인식시키기"
 date:   2016-12-22 20:33:00
-categories: hdd windows
+categories: hdd windows sloution
 ---
 
 새 하드를 도킹 스테이션 등으로 연결할 때 인식이 안되곤 한다. 하드 설정 문제다.

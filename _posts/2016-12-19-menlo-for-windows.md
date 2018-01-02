@@ -2,7 +2,7 @@
 layout: post
 title:  "macOS의 기본 개발용 폰트 Menlo 를 윈도우에서 사용하기"
 date:   2016-12-19 14:26:00
-categories: windows font
+categories: windows font settings
 ---
 
 맥을 사용하다가 윈도우를 강제적으로 사용하게 되어서 개발 환경을 다시 세팅 중.
