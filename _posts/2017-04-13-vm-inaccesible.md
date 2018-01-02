@@ -10,9 +10,9 @@ categories: solution
     Your VM has become “inaccessible.” Unfortunately, this is a critical error with VirtualBox that Vagrant can not cleanly recover from. Please open VirtualBox and clear out your inaccessible virtual machines or find a way to fix them.
 ```
 
-```
+
     VM이 "액세스 할 수 없게"되었습니다. 불행히도 이것은 Vagrant가 깨끗하게 복구 할 수없는 VirtualBox의 중대한 오류입니다. VirtualBox를 열고 액세스 할 수없는 가상 컴퓨터를 제거하거나 해결 방법을 찾으십시오.
-```
+
 거 참 unfortunately 하네..
 
 좀 찾아보니
