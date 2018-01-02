@@ -24,8 +24,8 @@ VM이 "액세스 할 수 없게"되었습니다. 불행히도 이것은 Vagrant�
 Virtual BOX 를 실행해보니
 
 ```
-    Runtime error opening 'C:\Users\master\VirtualBox VMs\homestead-7\homestead-7.vbox' for reading: -102(File not found.).
-    F:\tinderbox\win-5.0\src\VBox\Main\src-server\MachineImpl.cpp[740] (long __cdecl Machine::i_registeredInit(void)).
+Runtime error opening 'C:\Users\master\VirtualBox VMs\homestead-7\homestead-7.vbox' for reading: -102(File not found.).
+F:\tinderbox\win-5.0\src\VBox\Main\src-server\MachineImpl.cpp[740] (long __cdecl Machine::i_registeredInit(void)).
 ```
 이런게 나온다. 진짜 파일이 사라졌다..
 
