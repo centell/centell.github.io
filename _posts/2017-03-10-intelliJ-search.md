@@ -9,7 +9,7 @@ categories: tips
 
 이때 
 
-OR : `text1|text2`
+OR : `text1|text2`  
 AND : `(text1).*(text2)|\2.*\1` 
 
 과 같이 사용한다.
