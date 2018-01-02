@@ -2,7 +2,7 @@
 layout: post
 title:  "macOS의 기본 개발용 폰트 Menlo 를 윈도우에서 사용하기"
 date:   2016-12-19 14:26:00
-categories: blog
+categories: windows font
 ---
 
 맥을 사용하다가 윈도우를 강제적으로 사용하게 되어서 개발 환경을 다시 세팅 중.
@@ -18,7 +18,7 @@ Meslo 인가 비슷하게 만들었다는 폰트들도 있었는데 미묘하게
 
 Sublime Text 에서 설정 바꾸고 싶으면
 Setting-User 에서
-
+```
 {
  "ignored_packages":
  [
@@ -30,6 +30,7 @@ Setting-User 에서
  // "line_padding_top" : 2,
  // "line_padding_bottom" : 2
 }
+```
 
 
 를 추가한다.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "라라벨 문서"
-date:   2017-03-10 13:46:00
+date:   2017-03-10 
 categories: laravel documents
 ---
 
