@@ -7,8 +7,8 @@ categories: tips
 
 * Sublime Text 에서 merge 기능을 사용하는 방법.
 
-1. Package Control ( Mac : `cmd + Shift + P` | Win :  `Ctrl + Shift + P`)  
-2. install ' Sublimerge Pro '  
+1. Package Control ( Mac : `cmd + Shift + P` , Win :  `Ctrl + Shift + P`)  
+2. install 'Sublimerge Pro'
 3. You can see Preference - package Settings - Sublimerge
 
 Short cut : `Ctrl + Art + D`
