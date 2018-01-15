@@ -6,8 +6,10 @@ categories: atom
 ---
 
 아톰에서 테마를  
+```
 UI Theme: One Light  
 Syntax Theme: Atom Light  
+```
 로 쓰고 있었는데 초록색과 검정색을 구분하기 어려웠다. styles.less 를 변경하면 스타일을 바꿀 수 있다는 것을 알게되어 적용했다.
 
 ![image](./images/2018-01-15-atom-styles-less-01.png)
