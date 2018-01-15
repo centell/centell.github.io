@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get ERD Image From Sequel Pro on Mac"
+title:  "[DB] Get ERD Image From Sequel Pro on Mac"
 date:   2017-6-8 13:22:33
 categories: SequelPro ERD
 ---
