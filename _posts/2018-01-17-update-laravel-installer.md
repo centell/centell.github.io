@@ -6,6 +6,9 @@ categories: laravel composer update php
 ---
 
 #
+```
+composer global require "laravel/installer"
+```
 
 [**RLidea**](http://rlidea.com)기념일! 어느새 **Rock-in**부터 시작한 홈페이지 개발/운영도 15년도 넘었다. 새삼 프로젝트 욕심이 나서 `laravel new laravel`을 해봤는데
 
@@ -48,7 +51,6 @@ Writing lock file
 Generating autoload files
 ```
 
-업데이트 진행 이후 다시 버전 체크
 ```
 $ laravel -V
 Laravel Installer 1.5.0
@@ -102,7 +104,13 @@ Crafting application...
 
 ```
 
-왜죠?
+++
+
+```
+$ composer global require "laravel/installer"
+```
+ 이걸 입력하면 제대로 업데이트가 된다. [**참고**](https://laravel.com/docs/5.6/installation)
+
 
 
 ## 문제 해결 과정에서 찾은 정보들
