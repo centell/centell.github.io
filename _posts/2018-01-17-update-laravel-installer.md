@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Laravel] Laravel Installer 업데이트 (해결안됨)"
+title:  "[Laravel] Laravel Installer 업데이트"
 date:   2018-1-17 09:23:15
 categories: laravel composer update php
 ---
