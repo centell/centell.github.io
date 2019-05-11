@@ -1,2 +1,0 @@
-# centell.github.io
-
