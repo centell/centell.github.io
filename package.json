@@ -1,0 +1,17 @@
+{
+  "name": "centell.github.io",
+  "version": "1.0.0",
+  "description": "github page ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centell/centell.github.io.git"
+  },
+  "author": "Centell <centell@me.com>",
+  "bugs": {
+    "url": "https://github.com/centell/centell.github.io/issues"
+  },
+  "homepage": "https://centell.github.io/"
+}
