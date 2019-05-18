@@ -13,5 +13,10 @@
   "bugs": {
     "url": "https://github.com/centell/centell.github.io/issues"
   },
-  "homepage": "https://centell.github.io/"
+  "homepage": "https://centell.github.io/",
+  "dependencies": {
+    "create-element.js": "^0.1.3",
+    "grid-system.css": "^1.0.0",
+    "normalize.css": "^8.0.1"
+  }
 }
