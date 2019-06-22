@@ -114,6 +114,9 @@ nav {
 main {
   padding: 4px;
   min-height: 400px;
+  code {
+    display: block;
+  }
 }
 
 .font-sky-blue {
@@ -126,4 +129,18 @@ main {
 
 .font-red {
   color: #ED5E3F;
+}
+
+.font-green {
+  color: #49E690;
+}
+
+.font-white {
+  color: #F4F4F5;
+}
+
+.ls {
+  span {
+    padding-right: 50px;
+  }
 }
